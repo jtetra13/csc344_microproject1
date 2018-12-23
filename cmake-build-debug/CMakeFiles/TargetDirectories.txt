@@ -1,0 +1,3 @@
+/home/jtetra13/CLionProjects/csc344_microproject1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jtetra13/CLionProjects/csc344_microproject1/cmake-build-debug/CMakeFiles/csc344_microproject1.dir
+/home/jtetra13/CLionProjects/csc344_microproject1/cmake-build-debug/CMakeFiles/edit_cache.dir
